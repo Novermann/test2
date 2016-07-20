@@ -1,0 +1,13 @@
+{
+  "appname": "test2",
+  "ocscope": "FullAccess",
+  "clientid": "3C7B4BCA-0C74-44E9-AF98-31A8E7C5ADD5",
+  "buyerid": "test",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
